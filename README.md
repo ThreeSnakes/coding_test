@@ -58,5 +58,6 @@ It is a repository that records the problem of coding test.
 - [LeetCode](https://leetcode.com/)
   - [(NO. 1) Two Sum](leet_code/quiz/1_two_sum.md)
   - [(NO. 2) add two numbers](leet_code/quiz/2_add_two_numbers.md)
+  - [(NO. 6) ZigZag Conversion](leet_code/quiz/6_zigzag_conversion.md)
   - [(NO. 7) reverse integer](leet_code/quiz/7_reverse_integer.md)
   - [(NO. 13) roman to integer](leet_code/quiz/13_roman-to-integer.md)
