@@ -61,3 +61,4 @@ It is a repository that records the problem of coding test.
   - [(NO. 6) ZigZag Conversion](leet_code/quiz/6_zigzag_conversion.md)
   - [(NO. 7) reverse integer](leet_code/quiz/7_reverse_integer.md)
   - [(NO. 13) roman to integer](leet_code/quiz/13_roman-to-integer.md)
+  - [(NO. 35) Search Insert Position](leet_code/quiz/35_search_insert_position.md)
