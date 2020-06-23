@@ -63,4 +63,5 @@ It is a repository that records the problem of coding test.
   - [(NO.  9) Palindrome Number](leet_code/quiz/9_Palindrome_Number.md)
   - [(NO. 11) Container With Most Water](leet_code/quiz/11_Container_With_Most_Water.md)
   - [(NO. 13) roman to integer](leet_code/quiz/13_roman-to-integer.md)
+  - [(No. 20) Valid Parentheses](leet_code/quiz/20_Valid_Parentheses.md)
   - [(NO. 35) Search Insert Position](leet_code/quiz/35_search_insert_position.md)
