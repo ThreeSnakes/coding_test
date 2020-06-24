@@ -9,5 +9,6 @@
 - [(NO.  9) Palindrome Number](quiz/9_Palindrome_Number.md)
 - [(NO. 11) Container With Most Water](quiz/11_Container_With_Most_Water.md)
 - [(NO. 13) roman to integer](quiz/13_roman-to-integer.md)
+- [(NO. 14) Longest Common Prefix](quiz/14_Longest_Common_Prefix.md)
 - [(No. 20) Valid Parentheses](quiz/20_Valid_Parentheses.md)
 - [(NO. 35) Search Insert Position](quiz/35_search_insert_position.md)
