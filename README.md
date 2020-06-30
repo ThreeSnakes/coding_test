@@ -66,3 +66,4 @@ It is a repository that records the problem of coding test.
   - [(NO. 14) Longest Common Prefix](leet_code/quiz/14_Longest_Common_Prefix.md)
   - [(No. 20) Valid Parentheses](leet_code/quiz/20_Valid_Parentheses.md)
   - [(NO. 35) Search Insert Position](leet_code/quiz/35_search_insert_position.md)
+  - [(NO. 621) Task Scheduler](quiz/621_Task_Scheduler.md)
