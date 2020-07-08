@@ -65,6 +65,7 @@ It is a repository that records the problem of coding test.
   - [(NO. 13) roman to integer](leet_code/quiz/13_roman-to-integer.md)
   - [(NO. 14) Longest Common Prefix](leet_code/quiz/14_Longest_Common_Prefix.md)
   - [(No. 20) Valid Parentheses](leet_code/quiz/20_Valid_Parentheses.md)
+  - [(No. 21) Merge Two Sorted Lists](leet_code/quiz/21_Merge_Two_Sorted_Lists.md)
   - [(NO. 35) Search Insert Position](leet_code/quiz/35_search_insert_position.md)
   - [(No. 355) Design Twitter](leet_code/quiz/355_Design_Twitter.md)
   - [(NO. 621) Task Scheduler](leet_code/quiz/621_Task_Scheduler.md)
