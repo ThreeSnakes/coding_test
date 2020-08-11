@@ -73,3 +73,4 @@ It is a repository that records the problem of coding test.
   - [(Level 1) 완주하지 못한 선수](./programmers/quiz/42576_완주하지_못한_선수.md)
   - [(Level 2) 위장](./programmers/quiz/42578_위장.md)
   - [(Level 3) 2 x n 타일링](./programmers/quiz/12900_2xn타일링.md)
+  - [(Level 3) 정수 삼각형](./programmers/quiz/43105_정수_삼각형.md)
