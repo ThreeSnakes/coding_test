@@ -15,3 +15,4 @@
 - [(NO. 35) Search Insert Position](quiz/35_search_insert_position.md)
 - [(No. 355) Design Twitter](quiz/355_Design_Twitter.md)
 - [(NO. 621) Task Scheduler](quiz/621_Task_Scheduler.md)
+- [876. Middle of the Linked List](quiz/876.%20Middle%20of%20the%20Linked%20List.md)
