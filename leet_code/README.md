@@ -14,6 +14,7 @@
 - [(No. 21) Merge Two Sorted Lists](quiz/21_Merge_Two_Sorted_Lists.md)
 - [(No. 26) Remove Duplicates from Sorted Array](quiz/26_Remove_Duplicates_from_Sorted_Array.md)
 - [(No. 35) Search Insert Position](quiz/35_search_insert_position.md)
+- [(No. 151) Reverse Words in a String](quiz/151_Reverse_Words_in_a_String.md)
 - [(No. 345) Reverse Vowels of a String](quiz/345_Reverse_Vowels_of_a_String.md)
 - [(No. 355) Design Twitter](quiz/355_Design_Twitter.md)
 - [(No. 605) Can Place Flowers](quiz/605_Can_Place_Flowers.md)
