@@ -16,6 +16,7 @@
 - [(No. 35) Search Insert Position](quiz/35_search_insert_position.md)
 - [(No. 151) Reverse Words in a String](quiz/151_Reverse_Words_in_a_String.md)
 - [(No. 238) Product of Array Except Self](quiz/238_Product_of_Array_Except_Self.md)
+- [(No. 283) Move Zeros](quiz/283_Move_Zeroes.md)
 - [(No. 345) Reverse Vowels of a String](quiz/345_Reverse_Vowels_of_a_String.md)
 - [(No. 355) Design Twitter](quiz/355_Design_Twitter.md)
 - [(No. 443) String Compression](quiz/443_String_Compression.md)
