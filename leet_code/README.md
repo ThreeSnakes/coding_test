@@ -19,6 +19,7 @@
 - [(No. 283) Move Zeros](quiz/283_Move_Zeroes.md)
 - [(No. 345) Reverse Vowels of a String](quiz/345_Reverse_Vowels_of_a_String.md)
 - [(No. 355) Design Twitter](quiz/355_Design_Twitter.md)
+- [(No. 392) Is Subsequence](quiz/392_Is_Subsequence.md)
 - [(No. 443) String Compression](quiz/443_String_Compression.md)
 - [(No. 605) Can Place Flowers](quiz/605_Can_Place_Flowers.md)
 - [(No. 621) Task Scheduler](quiz/621_Task_Scheduler.md)
