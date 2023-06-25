@@ -22,6 +22,7 @@
 - [(No. 392) Is Subsequence](quiz/392_Is_Subsequence.md)
 - [(No. 443) String Compression](quiz/443_String_Compression.md)
 - [(No. 605) Can Place Flowers](quiz/605_Can_Place_Flowers.md)
+- [(No. 643) Maximum Average Subarray I](quiz/643_Maximum_Average_Subarray_I.md)
 - [(No. 621) Task Scheduler](quiz/621_Task_Scheduler.md)
 - [(No. 876) Middle of the Linked List](quiz/876.%20Middle%20of%20the%20Linked%20List.md)
 - [(No. 1679) Max Number of K-Sum Pairs](quiz/1679_max-number-of-k-sum-pairs.md)
