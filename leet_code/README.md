@@ -29,3 +29,4 @@
 - [(No. 1456) Maximum Number of Vowels in a Substring of Given Length](quiz/1456_maximum-number-of-vowels-in-a-substring-of-given-length.md)
 - [(No. 1679) Max Number of K-Sum Pairs](quiz/1679_max-number-of-k-sum-pairs.md)
 - [(No. 1732) Find the Highest Altitude](quiz/1732_find-the-highest-altitude.md)
+- [(No. 2215) Find the Difference of Two Arrays](quiz/2215_Find_the_Difference_of_Two_Arrays.md)

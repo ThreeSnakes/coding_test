@@ -30,7 +30,7 @@ Explanation: The altitudes are [0,-4,-7,-9,-10,-6,-3,-1]. The highest is 0.
 
 ## 문제 풀이
 
-```tsx
+```typescript
 function largestAltitude(gain: number[]): number {
   let max = 0;
 
