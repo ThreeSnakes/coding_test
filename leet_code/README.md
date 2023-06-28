@@ -26,6 +26,7 @@
 - [(No. 621) Task Scheduler](quiz/621_Task_Scheduler.md)
 - [(No. 724) Find Pivot Index](quiz/724_Find_Pivot_Index.md)
 - [(No. 876) Middle of the Linked List](quiz/876.%20Middle%20of%20the%20Linked%20List.md)
+- [(No. 1207) Unique Number of Occurrences](quiz/1207_Unique_Number_of_Occurrences.md)
 - [(No. 1456) Maximum Number of Vowels in a Substring of Given Length](quiz/1456_maximum-number-of-vowels-in-a-substring-of-given-length.md)
 - [(No. 1679) Max Number of K-Sum Pairs](quiz/1679_max-number-of-k-sum-pairs.md)
 - [(No. 1732) Find the Highest Altitude](quiz/1732_find-the-highest-altitude.md)
