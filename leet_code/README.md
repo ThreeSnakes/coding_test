@@ -31,3 +31,4 @@
 - [(No. 1679) Max Number of K-Sum Pairs](quiz/1679_max-number-of-k-sum-pairs.md)
 - [(No. 1732) Find the Highest Altitude](quiz/1732_find-the-highest-altitude.md)
 - [(No. 2215) Find the Difference of Two Arrays](quiz/2215_Find_the_Difference_of_Two_Arrays.md)
+- [(No. 2390) Removing Stars From a String](quiz/2390_Removing_Stars_From_a_String.md)
